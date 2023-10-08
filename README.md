@@ -44,3 +44,5 @@ At this state, you can create mixtures with the following compounds:
 - benzene
 - p-xylene
 - toluene
+
+In thermodynamics, a component is one of a collection of chemically independent constituents of a system.
